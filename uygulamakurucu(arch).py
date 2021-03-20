@@ -30,7 +30,7 @@ if bileşen == 'evet':
     os.system(yay2)
     os.system(güncelle)
 
-if soru = 'discord':
+if soru == 'discord':
     print('Discord Kuruluyor !')
     os.system(discord)
     os.system(güncelle)
