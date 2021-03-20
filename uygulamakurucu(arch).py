@@ -19,23 +19,39 @@ neofetch = ('sudo pacman -S neofecth')
 woeusb1 = ('git clone https://aur.archlinux.org/woeusb-gui.git')
 woeusb2 = ('cd woeusb-gui && makepkg -si')
 
+if bileşen == 'evet':
+    print('Gerekli Bileşenler Kuruluyor !')
+    os.system(snap1)
+    os.system(snap2)
+    os.system(snap3)
+    os.system(snap4)
+    os.system(snap5)
+    os.system(yay1)
+    os.system(yay2)
+    os.system(güncelle)
+
 if soru = 'discord':
     print('Discord Kuruluyor !')
     os.system(discord)
+    os.system(güncelle)
 
 if soru == 'google chrome':
     print('Google Chrome Kuruluyor !')
     os.system(googlechrome)
+    os.system(güncelle)
 
 if soru == 'opera':
     print('Opera Kuruluyor !')
     os.system(opera)
-
+    os.system(güncelle)
+    
 if soru == 'neofetch':
     print('Neofetch Kuruluyor !')
     os.system(neofetch)
+    os.system(güncelle)
 
 if soru == 'woeusb':
     print('Woeusb Kuruluyor !')
     os.system(woeusb1)
     os.system(woeusb2)
+    os.system(güncelle)
