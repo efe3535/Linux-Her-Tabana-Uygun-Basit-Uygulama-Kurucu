@@ -11,4 +11,4 @@ Bu uygulamalar sayesinde kendinize uygun tabana basitce uygulama kurabilirsiniz.
 2. `python3 uygulamakurucu(ubuntu).py` yaz terminale.
 3. Kurmak istediğin uygulamayı seç ve hazır :)
 
-Herkese iyi günler dilerim! Eğer beğenirseniz yıldız atarsanız sevinirim.
+Herkese iyi günler dilerim! Eğer beğenirseniz ve yıldız atarsanız sevinirim.
